@@ -1,0 +1,8 @@
+{
+  "name": "bajpai ji",
+  "description": "A minimal, lightning-fast video downloader UI that helps you preview and extract media info from social links.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
